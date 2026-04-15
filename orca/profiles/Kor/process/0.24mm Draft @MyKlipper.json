@@ -1,0 +1,17 @@
+{
+  "type": "process",
+  "name": "0.24mm Draft @KorZero",
+  "inherits": "fdm_process_klipper_common",
+  "from": "system",
+  "setting_id": "GP004",
+  "instantiation": "true",
+  "support_top_z_distance": "0.2",
+  "support_bottom_z_distance": "0.2",
+  "layer_height": "0.24",
+  "initial_layer_print_height": "0.2",
+  "compatible_printers": [
+    "KorZero 0.4 nozzle",
+    "KorZero 0.6 nozzle",
+    "KorZero 0.8 nozzle"
+  ]
+}

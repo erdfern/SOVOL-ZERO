@@ -1,0 +1,14 @@
+{
+  "type": "process",
+  "name": "0.20mm Standard @KorZero",
+  "inherits": "fdm_process_klipper_common",
+  "from": "system",
+  "setting_id": "GP004",
+  "instantiation": "true",
+  "layer_height": "0.2",
+  "compatible_printers": [
+    "KorZero 0.4 nozzle",
+    "KorZero 0.6 nozzle",
+    "KorZero 0.8 nozzle"
+  ]
+}

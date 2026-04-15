@@ -1,0 +1,54 @@
+{
+  "name": "Kor",
+  "version": "02.03.02.60",
+  "force_update": "0",
+  "description": "Kor configurations",
+  "machine_model_list": [
+    {
+      "name": "Kor Zero",
+      "sub_path": "machine/Kor Zero.json"
+    }
+  ],
+  "process_list": [
+    {
+      "name": "fdm_process_common",
+      "sub_path": "process/fdm_process_common.json"
+    },
+    {
+      "name": "fdm_process_klipper_common",
+      "sub_path": "process/fdm_process_klipper_common.json"
+    },
+    {
+      "name": "0.20mm Standard @Kor Zero 0.4 nozzle",
+      "sub_path": "process/0.20mm Standard @Kor Zero 0.4 nozzle"
+    },
+    {
+      "name": "0.30mm Standard @Kor Zero 0.6 nozzle",
+      "sub_path": "process/0.30mm Standard @Kor Zero 0.6 nozzle"
+    }
+  ],
+  "filament_list": [
+    {
+      "name": "Generic PLA @Kor Zero",
+      "sub_path": "filament/Generic PLA @Kor Zero.json"
+    }
+  ],
+  "machine_list": [
+    {
+      "name": "fdm_machine_common",
+      "sub_path": "machine/fdm_machine_common.json"
+    },
+    {
+      "name": "fdm_klipper_common",
+      "sub_path": "machine/fdm_klipper_common.json"
+    },
+    {
+      "name": "Kor Zero 0.4 nozzle",
+      "sub_path": "machine/Kor Zero 0.4 nozzle.json"
+    },
+    {
+      "name": "Kor Zero 0.6 nozzle",
+      "sub_path": "machine/Kor Zero 0.6 nozzle.json"
+    }
+  ]
+}
