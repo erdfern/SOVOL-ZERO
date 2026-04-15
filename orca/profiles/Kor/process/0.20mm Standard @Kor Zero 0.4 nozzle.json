@@ -137,5 +137,5 @@
   "filter_out_gap_fill": "0",
   "detect_narrow_internal_solid_infill": "1",
   "thick_bridges": "1",
-  "bridge_angle": "0",
+  "bridge_angle": "0"
 }
