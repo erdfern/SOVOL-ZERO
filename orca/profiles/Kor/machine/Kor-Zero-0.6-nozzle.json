@@ -1,0 +1,29 @@
+{
+  "type": "machine",
+  "name": "Kor Zero 0.6 nozzle",
+  "inherits": "Kor Zero 0.4 nozzle",
+  "from": "User",
+  "setting_id": "GM006",
+  "instantiation": "true",
+  "printer_model": "Kor Zero",
+  "default_print_profile": "0.30mm Standard @Kor Zero 0.6 nozzle",
+  "printer_variant": "0.6",
+  "nozzle_diameter": [
+    "0.6"
+  ],
+  "nozzle_type": [
+    "tungsten_carbide"
+  ],
+  "max_layer_height": [
+    "0.48"
+  ],
+  "min_layer_height": [
+    "0.12"
+  ],
+  "rertraction_length": [
+    "1.4"
+  ],
+  "rertraction_minimum_travel": [
+    "3"
+  ]
+}
