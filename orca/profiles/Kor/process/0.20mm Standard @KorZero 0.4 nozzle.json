@@ -1,10 +1,14 @@
 {
   "type": "process",
   "name": "0.20mm Standard @Kor Zero 0.4 nozzle",
-  "inherits": "fdm_process_common",
-  "from": "User",
+  "inherits": "fdm_process_klipper_common",
+  "from": "system",
   "setting_id": "GP004",
   "instantiation": "true",
+  "compatible_printers": [
+    "Kor Zero 0.4 nozzle"
+  ],
+  "compatible_printers_condition": "",
   "adaptive_layer_height": "1",
   "reduce_crossing_wall": "1",
   "max_travel_detour_distance": "100%",
@@ -13,13 +17,12 @@
   "bottom_shell_layers": "3",
   "bottom_shell_thickness": "0",
   "bridge_flow": "1.2",
-  "internal_bridge_flow": "1.2",
   "bridge_speed": "50",
-  "internal_bridge_speed": "200",
   "brim_type": "auto_brim",
   "brim_width": "5",
   "brim_object_gap": "0",
-  "compatible_printers_condition": "",
+  "internal_bridge_flow": "1.2",
+  "internal_bridge_speed": "200",
   "print_sequence": "by layer",
   "default_acceleration": "40000",
   "outer_wall_acceleration": "10000",
@@ -125,7 +128,6 @@
   "bridge_acceleration": "50%",
   "seam_gap": "10%",
   "precise_outer_wall": "1",
-  "wall_generator": "classic",
   "gcode_label_objects": "1",
   "slow_down_layers": "3",
   "top_solid_infill_flow_ratio": "0.9",
@@ -136,7 +138,4 @@
   "detect_narrow_internal_solid_infill": "1",
   "thick_bridges": "1",
   "bridge_angle": "0",
-  "compatible_printers": [
-    "Sovol Zero 0.4 nozzle"
-  ]
 }

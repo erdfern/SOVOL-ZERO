@@ -2,7 +2,7 @@
   "type": "machine",
   "name": "Kor Zero 0.4 nozzle",
   "inherits": "fdm_machine_klipper_common",
-  "from": "User",
+  "from": "system",
   "setting_id": "GM001",
   "instantiation": "true",
   "printer_model": "Kor Zero",

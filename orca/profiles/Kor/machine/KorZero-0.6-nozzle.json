@@ -2,7 +2,7 @@
   "type": "machine",
   "name": "Kor Zero 0.6 nozzle",
   "inherits": "Kor Zero 0.4 nozzle",
-  "from": "User",
+  "from": "system",
   "setting_id": "GM006",
   "instantiation": "true",
   "printer_model": "Kor Zero",
