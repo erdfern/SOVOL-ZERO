@@ -6,7 +6,7 @@
   "machine_model_list": [
     {
       "name": "Kor Zero",
-      "sub_path": ""
+      "sub_path": "machine/Kor Zero.json"
     }
   ],
   "process_list": [
@@ -39,56 +39,16 @@
       "sub_path": "machine/fdm_machine_common.json"
     },
     {
-      "name": "MyMarlin 0.4 nozzle",
-      "sub_path": "machine/MyMarlin 0.4 nozzle.json"
-    },
-    {
       "name": "fdm_klipper_common",
       "sub_path": "machine/fdm_klipper_common.json"
     },
     {
-      "name": "fdm_rrf_common",
-      "sub_path": "machine/fdm_rrf_common.json"
+      "name": "Kor Zero 0.4 nozzle",
+      "sub_path": "machine/Kor Zero 0.4 nozzle.json"
     },
     {
-      "name": "MyKlipper 0.2 nozzle",
-      "sub_path": "machine/MyKlipper 0.2 nozzle.json"
-    },
-    {
-      "name": "MyKlipper 0.4 nozzle",
-      "sub_path": "machine/MyKlipper 0.4 nozzle.json"
-    },
-    {
-      "name": "MyKlipper 0.6 nozzle",
-      "sub_path": "machine/MyKlipper 0.6 nozzle.json"
-    },
-    {
-      "name": "MyKlipper 0.8 nozzle",
-      "sub_path": "machine/MyKlipper 0.8 nozzle.json"
-    },
-    {
-      "name": "fdm_toolchanger_common",
-      "sub_path": "machine/fdm_toolchanger_common.json"
-    },
-    {
-      "name": "MyRRF 0.4 nozzle",
-      "sub_path": "machine/MyRRF 0.4 nozzle.json"
-    },
-    {
-      "name": "MyToolChanger 0.2 nozzle",
-      "sub_path": "machine/MyToolChanger 0.2 nozzle.json"
-    },
-    {
-      "name": "MyToolChanger 0.4 nozzle",
-      "sub_path": "machine/MyToolChanger 0.4 nozzle.json"
-    },
-    {
-      "name": "MyToolChanger 0.6 nozzle",
-      "sub_path": "machine/MyToolChanger 0.6 nozzle.json"
-    },
-    {
-      "name": "MyToolChanger 0.8 nozzle",
-      "sub_path": "machine/MyToolChanger 0.8 nozzle.json"
+      "name": "Kor Zero 0.6 nozzle",
+      "sub_path": "machine/Kor Zero 0.6 nozzle.json"
     }
   ]
 }
