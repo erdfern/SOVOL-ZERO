@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "SOVOL3D ZERO",
+    "model_id": "SOVOL3D-ZERO",
+    "nozzle_diameter": "0.4;0.2",
+    "machine_tech": "FFF",
+    "family": "SOVOL3D",
+    "bed_model": "sovol3d_150_150_buildplate_model.stl",
+    "bed_texture": "sovol3d_buildplate_texture.png",
+    "hotend_model": "",
+	"default_materials": "SOVOL3D ZERO PLA;SOVOL3D ZERO ABS;SOVOL3D ZERO PETG;SOVOL3D ZERO TPU;SOVOL3D ZERO PC"    
+}
