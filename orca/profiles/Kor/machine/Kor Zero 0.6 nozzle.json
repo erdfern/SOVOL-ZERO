@@ -20,10 +20,10 @@
   "min_layer_height": [
     "0.12"
   ],
-  "rertraction_length": [
+  "retraction_length": [
     "1.4"
   ],
-  "rertraction_minimum_travel": [
+  "retraction_minimum_travel": [
     "3"
   ]
 }
